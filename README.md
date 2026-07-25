@@ -60,3 +60,4 @@ A clean pricing comparison table displaying different subscription plans side by
 ---
 
 Made with ❤️ while learning Full Stack Web Development.
+https://roadmap.sh/projects/pricing-comparison-table
